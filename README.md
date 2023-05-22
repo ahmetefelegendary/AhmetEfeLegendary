@@ -1,3 +1,4 @@
+<img align="center" alt="coding" width="400px" src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif">
 <h1 align="center">Hi 👋, I'm Ahmet Efe Legendary</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
