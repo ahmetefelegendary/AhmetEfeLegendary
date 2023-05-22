@@ -1,4 +1,4 @@
-<img align="center" alt="coding"  src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif">
+<img align="center" alt="coding"  src="https://vignette.wikia.nocookie.net/vsbattles/images/2/2b/Chill_Estarossa.jpg/revision/latest?cb=20161220101716">
 <h1 align="center">Hi 👋, I'm Ahmet Efe Legendary</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
