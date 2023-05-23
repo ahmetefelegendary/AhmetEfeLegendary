@@ -1,4 +1,4 @@
-<img align = "center" alt = "kodlama" src =" https://encrypted-tbn0.gstatic.com/images?q=tbn:AND9GcRdVniT5Bjn1sXaVcZ89BOiCDBuk8DPh4UXlA&usqp=CAU ">
+<img align = "center" alt = "kodlama" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVniT5Bjn1sXaVcZ89BOiCDBuk8DPh4UXlA&usqp=CAU">
 
 <h1 align = "center" > Merhaba 👋, ben Ahmet Efe Legendary </h1>
 <h3 align = "center" > Web And Mobile Development</h3>
