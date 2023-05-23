@@ -1,4 +1,4 @@
-< img align = "merkez" alt = "kodlama" src = " https://encrypted-tbn0.gstatic.com/images?q=tbn:AND9GcRdVniT5Bjn1sXaVcZ89BOiCDBuk8DPh4UXlA&usqp=CAU ">
+< img align = "merkez" alt = "kodlama" kaynak =" https://encrypted-tbn0.gstatic.com/images?q=tbn:AND9GcRdVniT5Bjn1sXaVcZ89BOiCDBuk8DPh4UXlA&usqp=CAU">
 < h1 align = "center" > Merhaba 👋, ben Ahmet Efe Efsane </ h1 >
 < h3 align = "center" > Türkiye'den tutkulu bir web geliştiricisi </ h3 >
 
