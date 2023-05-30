@@ -1,4 +1,4 @@
-<img align = "center" alt = "kodlama" width="100%" src ="https://pbs.twimg.com/media/FWmKGbHWYAAfpvR?format=jpg&name=large">
+<img align = "center" alt = "kodlama" width="100%" src ="https://i.hizliresim.com/cs2l893.jpg">
 
 <h1 align = "center" > Hello 👋, I Am Ahmet Efe Kahraman </h1>
 <h3 align = "center" > Web And Mobile Developer</h3>
