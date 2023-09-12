@@ -1,7 +1,7 @@
 <img align = "center" alt = "kodlama" width="100%" src ="https://i.hizliresim.com/cs2l893.jpg">
 
 <h1 align = "center" > Hello 👋, I Am Ahmet Efe Kahraman </h1>
-<h3 align = "center" > Web And Mobile Developer</h3>
+<h3 align = "center" >Software Student 12th</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetefelegendary&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetefelegendary" /> </p>
 
